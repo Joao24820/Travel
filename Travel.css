@@ -1,0 +1,267 @@
+@charset "UTF-8";
+
+#menu{
+    text-align: center;
+    background-image: url("https://images.pexels.com/photos/2563681/pexels-photo-2563681.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-position: center;
+    background-size:cover;
+    filter: brightness(90%);
+    height: 630px;
+    width: 1410px;
+    background-color:white; 
+}
+
+#menu_01{
+    display: flex;
+    padding-bottom: 50px;
+    position: center;
+    padding-left: 440px;
+    padding-top: 2px;
+    font-size: 18px;
+    filter: brightness(95%);
+}   
+
+#destaque{  
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;  
+}
+
+.text_t{
+    font-size: 23px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+}
+
+#button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    border-radius: 5px;
+    padding: 4px;
+}
+
+.text_p{
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    width: 1000px;
+    padding-left: 200px;
+}
+
+#part_02{
+    text-align: center;
+    font-size: 15px;
+    padding-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#paises{
+    display: flex;
+}
+
+#img_01{
+    height: 400px;
+    width: 300px;
+    padding-right: 5px;
+    padding-left: 100px;
+    padding-top: 10px;
+}
+
+#img_01:hover{
+
+    transition: all 0.5s;
+    cursor: pointer;
+    -webkit-transform: scale(1.10);
+    transform: scale(1.10);
+}
+
+.img{
+    height: 400px;
+    width: 300px;
+    padding-right: 5px;
+    padding-top: 10px;
+}
+
+.img:hover{
+
+    transition: all 0.5s;
+    cursor: pointer;
+    -webkit-transform: scale(1.10);
+    transform: scale(1.10);
+}
+
+#titulo_02{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#titulo_03{
+    padding-top: 10px;
+    text-align: right;
+    padding-right: 50px;
+    font-size: 23px;
+}
+
+.trans{
+    height: 400px;
+    width: 300px; 
+    position: center;
+    padding-left: 120px;
+   
+}
+
+#transp{
+    display: flex;
+   background-color: rgba(255, 255, 255, 0.738);
+}
+
+#te_01{
+    padding-left: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#te_02{
+    padding-left: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#te_03{
+    padding-left: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#tela_photo{
+    padding-left: 110px;
+    padding-right: 120px;
+}
+
+#tela_04{
+
+    padding-top:10px;
+    padding-left: 120px;
+    padding-right: 100px;
+    font-size: 24px;
+    background-image: url("https://images.pexels.com/photos/3278215/pexels-photo-3278215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size:cover;
+    filter: brightness(80%);
+    height: 580px;
+    width: 980px;
+
+}
+.text_05{
+    color:black;
+    filter: brightness(500%);
+}
+
+.viajar{
+    display: flex;
+    padding-left: 35px;
+    
+}
+
+.box{
+    background-color:rgb(248, 238, 223);
+    height:370px;
+    width:310px;
+    border-radius: 20px 20px 20px 20px;
+    background-size: cover;
+    color: black;
+    box-shadow: 80px black solid;  
+}
+
+.title_passar{
+    padding-top: 10px;
+    font-size: 20px;
+    padding-left: 12px;
+}
+
+.sub_title{
+    padding-left: 12px;
+}
+
+.check{
+    height: 15px;
+}
+
+.btn_01{
+    text-align: center;
+}
+
+.btn_comprar{
+    padding: 8px 70px 8px 70px ;
+    border-radius: 5px;
+    box-shadow: 3px black;
+    
+}
+
+#pacote{
+    display: flex;
+    
+}
+
+#rotape{
+    display: flex;
+    background-color: #f8f3fcc8;
+}
+
+.opcao{
+    padding-right: 15px;
+}
+
+.dados{
+    list-style-type: none;
+    padding-bottom: 15px;
+    font-size: 20px;
+    color: black;
+}
+#dado_1{
+    padding-top: 50px;
+    color: black;
+}
+
+#dado_2{
+    padding-top: 50px;
+}
+
+#globe{
+    height: 200px;
+    width: 200px;
+    padding-left: 270px;
+    padding-top: 35px;
+    filter: brightness(90%);
+}
+
+#fly{
+    padding-top: 35px;
+    padding-right: 250px;
+    height: 200px;
+    width: 200px;
+    filter: brightness(60%);
+    padding-left: 120px;
+}
+
+#frase{
+    font-size: 20px;
+    padding-left: 50px;
+}
+
+#link{
+    padding-top: 43px;
+    padding-left: 20px;
+    height: 30px;
+    width: 30px;
+}
+
+#git{
+    padding-top: 43px;
+    padding-left: 14px;
+    height: 30px;
+    width: 30px;
+}
+
+.frase_01{
+    padding-left: 250px;
+}
+
+#coment{
+    padding-bottom: 100px;
+}
